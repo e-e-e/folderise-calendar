@@ -1,6 +1,6 @@
 # folderise-calendar
 
-A plugin for folderise used to incorporate google calendar into static site.
+A plugin for [folderise](https://github.com/e-e-e/Folderise) used to incorporate google calendar into static site.
 
 This was written to serve the 10 latest events on a google calendar. It is quite idiosyncratic as it was developed for \*\*frontyard\*\* project's [website](www.frontyardprojects.org). It need a lot of work to be more modular. 
 

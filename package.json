@@ -12,6 +12,10 @@
     "google",
     "calendar"
   ],
+  "repository": {
+    "type":"git",
+    "url":"https://github.com/e-e-e/folderise-calendar"
+  },
   "author": "Benjamin Forster",
   "license": "ISC",
   "dependencies": {
